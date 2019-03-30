@@ -1,0 +1,23 @@
+{
+  "name": "mynodetest",
+  "version": "1.0.0",
+  "description": "my node test projects",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "baezzang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "grunt": "^1.0.4",
+    "grunt-contrib-jshint": "^2.1.0",
+    "mocha": "^6.0.2",
+    "nodemon": "^1.18.10",
+    "zombie": "^6.1.4"
+  }
+}
