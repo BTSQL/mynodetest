@@ -1,0 +1,23 @@
+{
+  "name": "ch06",
+  "version": "1.0.0",
+  "description": "ch06 test",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "grunt": "^1.0.4",
+    "grunt-cafe-mocha": "^0.1.13",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-exec": "^3.0.0",
+    "mocha": "^6.0.2",
+    "zombie": "^6.1.4"
+  },
+  "dependencies": {
+    "express-handlebars": "^3.0.2"
+  }
+}
