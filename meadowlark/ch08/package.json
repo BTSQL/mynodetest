@@ -1,0 +1,29 @@
+{
+  "name": "ch08",
+  "version": "1.0.0",
+  "description": "ch08 test",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "grunt": "^1.0.4",
+    "grunt-cafe-mocha": "^0.1.13",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-exec": "^3.0.0",
+    "mocha": "^6.0.2",
+    "nodemon": "^1.18.10",
+    "zombie": "^6.1.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "express-handlebars-sections": "^1.0.1",
+    "formidable": "^1.2.1",
+    "jquery-file-upload-middleware": "^0.1.8"
+  }
+}
